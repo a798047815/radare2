@@ -1,5 +1,5 @@
 #!/bin/sh
-CS_URL="$1" # url
+CS_URL="git://github.com/aquynh/capstone.git" # url
 CS_BRA="$2" # branch name
 CS_TIP="$3" # tip commit
 CS_REV="$4" # revert
